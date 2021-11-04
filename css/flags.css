@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	font-family: 'Helvetica';
+}
+.FlagBackground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/FormBackground.png");
+}
+
+.FlagGreen h1{
+    position: absolute;
+    color:black;
+    left: 440px;
+    font-family: 'Helvetica';
+}
+
+.FlagGreen form{
+    position: absolute;
+    top: 0px;
+    left: 270px;
+    width: 700px;
+    height: 60px;
+    background-image: url("../images/FormBackGroundRegister.png");
+}
+
+.Flag form{
+  position: absolute;
+  top: 50px;
+  left: 270px;
+  width: 950px;
+  height: 500px;
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 25px;
+  }
+.flag-search input{
+float:middle;
+padding: 7px;
+margin-top: 60px;
+margin-left: 370px;
+font-size: 17px;
+border-radius: 25px;
+}
+.flag-search button {
+position: absolute;
+top: 110px;
+left: 540px;
+height:36px;
+width:36px;
+border-radius: 25px;
+margin-top: 7px;
+background-image: url("../images/Magnifying.png");
+cursor: pointer;
+}
+.found-flags {
+    position: absolute;
+    top: 300px;
+    left: 450px;
+    width: 600px;
+    height: 300px;
+    background-color:#00DE94;
+}
+.found-flags p{
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    color: #3a3d51;
+}
+.found-flags h1{
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    color: #3a3d51;
+}

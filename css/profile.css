@@ -1,0 +1,53 @@
+.ProfileBackground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/FormBackground.png");
+}
+
+.ProfileGreen h1{
+    position: absolute;
+    color:black;
+    left: 600px;
+    font-family: 'Helvetica';
+}
+.ProfileGreen h2{
+    position: absolute;
+    color:black;
+    left: 420px;
+    font-family: 'Helvetica';
+}
+.ProfileGreen p{
+    position: absolute;
+    color:black;
+    left: 480px;
+    font-family: 'Helvetica';
+}
+
+.ProfileGreen form{
+    position: absolute;
+    top: 0px;
+    left: 270px;
+    width: 700px;
+    height: 60px;
+    background-image: url("../images/LeaderboardBackGound.png");
+}
+
+.Profile form{
+    position: absolute;
+    top: 50px;
+    left: 270px;
+    width: 950px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 25px;
+}
+.personal-img{
+    position: absolute;
+    top: 100px;
+    left: 93px;
+    width: 20px;
+    height:20px;
+    display: block;
+}

@@ -1,0 +1,57 @@
+.RegisterFormBackground {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/FormBackground.png");
+}
+
+.RegisterForm h2{
+    position: absolute;
+    left:420px;
+    font-family: 'Helvetica';
+}
+
+.RegisterForm p{
+    position: absolute;
+    color:black;
+    left: 100px;
+    font-family: 'Helvetica';
+}
+.RegisterForm h3{
+    position: absolute;
+    color:black;
+    left: 420px;
+    font-family: 'Helvetica';
+}
+
+.RegisterFormGreen form{
+    position: absolute;
+    top: 0px;
+    left: 270px;
+    width: 700px;
+    height: 60px;
+    background-image: url("../images/FormBackGroundRegister.png");
+}
+
+.RegisterForm form{
+  position: absolute;
+  top: 50px;
+  left: 270px;
+  width: 950px;
+  height: 500px;
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 25px;
+  }
+.button {
+position: absolute;
+background-image: url("../images/FormButton.png");
+border: none;
+color: white;
+padding: 15px 32px;
+font-size: 14px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 25px;
+font-family: 'Helvetica';
+}
